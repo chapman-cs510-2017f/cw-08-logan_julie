@@ -1,8 +1,16 @@
 # CS510 CW 8
 
-**Author(s):** **CHANGEME**
 
-[![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-08-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-08-YOURNAME)
+Name: Julie Gardner-Hoag, Logan Gantner
+
+Student ID: 2299636, 2307470
+
+Email: gardnerh@chapman.edu, gantner@chapman.edu
+
+Course: CS510 Fall 2017
+
+
+[![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-08-logan_julie.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-08-logan_julie)
 
 ## Specification
 
@@ -27,9 +35,7 @@ def julia(z):
 ```
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
-
-**CHANGEME**
+This assignment was fun! Julia has many similarities to Matlab but with some Python functionality added, so figuring out how to use it was fairly simple. The tutorials were interesting and we got to plot our FAVORITE Julia sets. We had no real issues with this except we had to install PyPlot. For some reason, Cocalc just had difficulties.
 
 ## Honor Pledge
 
@@ -40,4 +46,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+Julie Gardner-Hoag, Logan Gantner
